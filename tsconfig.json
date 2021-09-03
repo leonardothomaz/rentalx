@@ -26,7 +26,7 @@
     // "typeRoots": [],                                  
     // "types": [],                                      
     // "allowUmdGlobalAccess": true,                     
-    // "resolveJsonModule": true,                        
+    "resolveJsonModule": true,
     // "noResolve": true,                                
     // "allowJs": true,                                  
     // "checkJs": true,                                  
