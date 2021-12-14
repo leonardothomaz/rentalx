@@ -1,4 +1,6 @@
 interface ICreateUserDTO {
+  id?: string;
+
   name: string;
 
   email: string;
@@ -6,6 +8,8 @@ interface ICreateUserDTO {
   password: string;
 
   driver_licence: string;
+
+  avatar?: string;
 }
 
 export { ICreateUserDTO };
